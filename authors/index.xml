@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on </title>
+    <title>Authors on Code of Chaos</title>
     <link>/authors/</link>
-    <description>Recent content in Authors on </description>
+    <description>Recent content in Authors on Code of Chaos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Thu, 23 Jan 2020 01:14:16 +0600</lastBuildDate>
     
 	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Shaurav Z. Mahmud</title>
+      <link>/authors/shaurav-z.-mahmud/</link>
+      <pubDate>Thu, 23 Jan 2020 01:14:16 +0600</pubDate>
+      
+      <guid>/authors/shaurav-z.-mahmud/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>

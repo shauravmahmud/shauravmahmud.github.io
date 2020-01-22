@@ -4,7 +4,37 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-23T01:14:16+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-01-23T01:14:16+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/diary/</loc>
+    <lastmod>2020-01-23T01:14:16+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/my_first_post/</loc>
+    <lastmod>2020-01-23T01:14:16+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-01-23T01:14:16+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/shaurav-z.-mahmud/</loc>
+    <lastmod>2020-01-23T01:14:16+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-01-23T01:14:16+06:00</lastmod>
   </url>
   
   <url>
@@ -25,19 +55,11 @@
   </url>
   
   <url>
-    <loc>/authors/</loc>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
   </url>
   
   <url>
     <loc>/series/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
   </url>
   
 </urlset>
